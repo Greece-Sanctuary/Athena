@@ -1,4 +1,4 @@
-package Pegasus;
+package com.corncop.pegasus;
 
 import android.app.AlertDialog;
 import android.content.Context;
