@@ -1,4 +1,4 @@
-package Virgo;
+package com.corncop.virgo;
 
 import android.content.Context;
 import android.os.PowerManager;

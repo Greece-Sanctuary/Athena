@@ -1,4 +1,6 @@
-package com.toolsbox.athena;
+package com.corncop.athena;
+
+import com.toolsbox.athena.R;
 
 import android.os.Bundle;
 import android.app.Activity;
